@@ -1,0 +1,2 @@
+-- im xaxa and im 14
+-- i know, c#, c++, lua, and im learning javascript
